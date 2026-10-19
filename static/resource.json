@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "subscriptions": [
+    {"name": "官方小说示例", "url": "https://ghproxy.net/https://raw.githubusercontent.com/qucomic/ikan_source/refs/heads/main/rule_example/novel.json"},
+    {"name": "官方漫画示例", "url": "https://ghproxy.net/https://raw.githubusercontent.com/qucomic/ikan_source/refs/heads/main/rule_example/manga.json"},
+    {"name": "官方视频示例", "url": "https://ghproxy.net/https://raw.githubusercontent.com/qucomic/ikan_source/refs/heads/main/rule_example/video.json"}
+  ],
+  "liveSources": [
+    {"name": "CCSH", "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u"},
+    {"name": "国内电视台", "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B0202509.m3u"},
+    {"name": "国外电视台", "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B0202409.m3u"}
+  ]
+}
