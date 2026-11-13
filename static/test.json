@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "ads": [
+    {
+      "id": "drama-ad-01",
+      "placement": "short_drama_feed",
+      "videoUrl": "http://vjs.zencdn.net/v/oceans.mp4",
+      "posterUrl": "https://www.bowumi.com/wp-content/uploads/tupianbd/2/253/1205803863/1877156167.jpg",
+      "iconUrl": "https://opic-oss.588ku.com/element_pic/24/01/23/89518e9d1cae6333d79ce151335b2391.png!w300s",
+      "title": "广告标题",
+      "description": "广告副标题",
+      "buttonText": "了解详情",
+      "targetUrl": "https://example.com/offer",
+      "openMode": "external"
+    }
+  ]
+}
